@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Restaurant.Shared.ReservationDTO>
+
+@{
+    ViewData["Title"] = "All Reservations";
+}
+
+<h1>All Reservations</h1>
+
+<p>
+    <a asp-action="CreateReservation">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ReservationId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GuestNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReservationDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MenuTypeId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Notes)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReservationId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GuestNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReservationDate)
+            </td>
+            <td>
+                @(Enum.GetName(typeof(Restaurant.Shared.Enums.MenuTypeEnum), item.MenuTypeId))
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Notes)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "ReservationDetails", new { reservationId = item.ReservationId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

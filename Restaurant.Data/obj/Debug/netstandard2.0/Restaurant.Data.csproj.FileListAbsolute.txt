@@ -1,0 +1,11 @@
+D:\Ismail\Projects\Restaurant\Restaurant.Data\bin\Debug\netstandard2.0\Restaurant.Data.deps.json
+D:\Ismail\Projects\Restaurant\Restaurant.Data\bin\Debug\netstandard2.0\Restaurant.Data.dll
+D:\Ismail\Projects\Restaurant\Restaurant.Data\bin\Debug\netstandard2.0\Restaurant.Data.pdb
+D:\Ismail\Projects\Restaurant\Restaurant.Data\bin\Debug\netstandard2.0\Restaurant.Shared.dll
+D:\Ismail\Projects\Restaurant\Restaurant.Data\bin\Debug\netstandard2.0\Restaurant.Shared.pdb
+D:\Ismail\Projects\Restaurant\Restaurant.Data\obj\Debug\netstandard2.0\Restaurant.Data.csprojAssemblyReference.cache
+D:\Ismail\Projects\Restaurant\Restaurant.Data\obj\Debug\netstandard2.0\Restaurant.Data.AssemblyInfoInputs.cache
+D:\Ismail\Projects\Restaurant\Restaurant.Data\obj\Debug\netstandard2.0\Restaurant.Data.AssemblyInfo.cs
+D:\Ismail\Projects\Restaurant\Restaurant.Data\obj\Debug\netstandard2.0\Restaurant.Data.csproj.CopyComplete
+D:\Ismail\Projects\Restaurant\Restaurant.Data\obj\Debug\netstandard2.0\Restaurant.Data.dll
+D:\Ismail\Projects\Restaurant\Restaurant.Data\obj\Debug\netstandard2.0\Restaurant.Data.pdb

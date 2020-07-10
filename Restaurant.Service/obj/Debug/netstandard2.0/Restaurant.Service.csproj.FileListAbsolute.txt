@@ -1,0 +1,13 @@
+D:\Ismail\Projects\Restaurant\Restaurant.Service\bin\Debug\netstandard2.0\Restaurant.Service.deps.json
+D:\Ismail\Projects\Restaurant\Restaurant.Service\bin\Debug\netstandard2.0\Restaurant.Service.dll
+D:\Ismail\Projects\Restaurant\Restaurant.Service\bin\Debug\netstandard2.0\Restaurant.Service.pdb
+D:\Ismail\Projects\Restaurant\Restaurant.Service\bin\Debug\netstandard2.0\Restaurant.Data.dll
+D:\Ismail\Projects\Restaurant\Restaurant.Service\bin\Debug\netstandard2.0\Restaurant.Shared.dll
+D:\Ismail\Projects\Restaurant\Restaurant.Service\bin\Debug\netstandard2.0\Restaurant.Data.pdb
+D:\Ismail\Projects\Restaurant\Restaurant.Service\bin\Debug\netstandard2.0\Restaurant.Shared.pdb
+D:\Ismail\Projects\Restaurant\Restaurant.Service\obj\Debug\netstandard2.0\Restaurant.Service.csprojAssemblyReference.cache
+D:\Ismail\Projects\Restaurant\Restaurant.Service\obj\Debug\netstandard2.0\Restaurant.Service.AssemblyInfoInputs.cache
+D:\Ismail\Projects\Restaurant\Restaurant.Service\obj\Debug\netstandard2.0\Restaurant.Service.AssemblyInfo.cs
+D:\Ismail\Projects\Restaurant\Restaurant.Service\obj\Debug\netstandard2.0\Restaurant.Service.csproj.CopyComplete
+D:\Ismail\Projects\Restaurant\Restaurant.Service\obj\Debug\netstandard2.0\Restaurant.Service.dll
+D:\Ismail\Projects\Restaurant\Restaurant.Service\obj\Debug\netstandard2.0\Restaurant.Service.pdb

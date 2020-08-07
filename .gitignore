@@ -8,3 +8,8 @@
 /Restaurant.Service/obj
 /Restaurant.Shared/obj
 /Restaurant.Web/obj
+/Restaurant.API/bin
+/Restaurant.Data/bin
+/Restaurant.Service/bin
+/Restaurant.Shared/bin
+/Restaurant.Web/bin

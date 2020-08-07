@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/Restaurant.API/obj
+/Restaurant.Data/obj
+/Restaurant.Service/obj
+/Restaurant.Shared/obj
+/Restaurant.Web/obj

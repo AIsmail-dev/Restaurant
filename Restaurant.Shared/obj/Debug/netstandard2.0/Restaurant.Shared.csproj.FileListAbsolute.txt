@@ -1,8 +1,0 @@
-D:\Ismail\Projects\Restaurant\Restaurant.Shared\bin\Debug\netstandard2.0\Restaurant.Shared.deps.json
-D:\Ismail\Projects\Restaurant\Restaurant.Shared\bin\Debug\netstandard2.0\Restaurant.Shared.dll
-D:\Ismail\Projects\Restaurant\Restaurant.Shared\bin\Debug\netstandard2.0\Restaurant.Shared.pdb
-D:\Ismail\Projects\Restaurant\Restaurant.Shared\obj\Debug\netstandard2.0\Restaurant.Shared.csprojAssemblyReference.cache
-D:\Ismail\Projects\Restaurant\Restaurant.Shared\obj\Debug\netstandard2.0\Restaurant.Shared.AssemblyInfoInputs.cache
-D:\Ismail\Projects\Restaurant\Restaurant.Shared\obj\Debug\netstandard2.0\Restaurant.Shared.AssemblyInfo.cs
-D:\Ismail\Projects\Restaurant\Restaurant.Shared\obj\Debug\netstandard2.0\Restaurant.Shared.dll
-D:\Ismail\Projects\Restaurant\Restaurant.Shared\obj\Debug\netstandard2.0\Restaurant.Shared.pdb

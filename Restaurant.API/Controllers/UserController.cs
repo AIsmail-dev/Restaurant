@@ -36,6 +36,7 @@ namespace Restaurant.API.Controllers
             return await _userService.AddUser(userDTO);
         }
 
+        [AllowAnonymous]
         [HttpGet("GetAllUsers")]
         public async Task<List<UserDTO>> GetAllUsers()
         {
